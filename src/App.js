@@ -1,7 +1,8 @@
 import React from "react"
+import Error from "./pages/error/Error"
 
 function App() {
-  return <h1>Music Player</h1>
+  return <Error />
 }
 
 export default App
